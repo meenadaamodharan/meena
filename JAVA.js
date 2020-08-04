@@ -55,7 +55,7 @@ public class Banking
 
                       cn.commit ();
 
-                      System.out.println ("*******: "+amnt+" balance is successfully Transferred:*******");
+                      System.out.println (""+amnt+" is successfully Transferred");
 
                  }
 
